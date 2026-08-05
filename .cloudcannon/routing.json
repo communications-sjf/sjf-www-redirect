@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "from": "/(.*)",
+      "to": "https://strykerjohnstonfoundation.org/$1",
+      "status": 301
+    }
+  ]
+}
